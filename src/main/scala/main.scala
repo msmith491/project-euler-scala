@@ -8,6 +8,8 @@ object Main {
     conf.problem() match {
       case 1 => Problem1
       case 2 => Problem2
+      case 3 => Problem3
+      case _ => println("WHAAAAAAAT?")
     }
   }
 }
