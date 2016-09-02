@@ -14,6 +14,7 @@ object Main {
       case 6 => Problem6
       case 7 => Problem7
       case 8 => Problem8
+      case 9 => Problem9
       case _ => println("WHAAAAAAAT?")
     }
   }
